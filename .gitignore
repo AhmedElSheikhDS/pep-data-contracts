@@ -1,5 +1,6 @@
 # Large binary files
 *.mp4
+*.png
 *.csv
 *.pdf
 
