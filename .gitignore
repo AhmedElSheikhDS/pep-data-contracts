@@ -1,0 +1,10 @@
+# Large binary files
+*.mp4
+*.csv
+*.pdf
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

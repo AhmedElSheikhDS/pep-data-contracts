@@ -1,0 +1,108 @@
+{
+  "mainTour": {
+    "id": "<ObjectId>",
+    "name": "Project Name",
+    "maps": {
+      "1": {
+        "id": 1,
+        "rooms": {
+          "room1_Id": {
+            "hotspots": [
+              {
+                "svgUrl": "path",
+                "x": 12,
+                "y": 34,
+                "filenamePanorama": "<pano_filename>.jpg",
+                "panoId": "<ObjectId>"
+              }
+            ]
+          }
+        },
+        "polygons": {
+          "room1_Id": [
+            {
+              "x": 123,
+              "y": 456
+            }
+          ],
+          "room2_Id": [
+            {
+              "x": 456,
+              "y": 789
+            }
+          ]
+        }
+      }
+    },
+    "panos": [
+      {
+        "id": "698f5a7fbaccb3305e015a72",
+        "name": "Living room",
+        "originalImage": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/724fbmd5z5.JPG?v=1771002616011",
+        "originalImageRaw": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/original-images/724fbmd5z5.JPG?v=1771002616011",
+        "thumbnail": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/thumb-images/724fbmd5z5.JPG?v=1771002616011",
+        "plan": 1,
+        "tiles": {
+          "tileSize": 1000,
+          "levels": [
+            {
+              "type": "CUBE",
+              "pattern": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/724fbmd5z5_%s_%v_%h.JPG?v=1771002616011",
+              "width": 2752,
+              "height": 2752
+            },
+            {
+              "type": "CUBE",
+              "pattern": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/2048-images/724fbmd5z5_%s_%v_%h.JPG?v=1771002616011",
+              "width": 256,
+              "height": 256
+            },
+            {
+              "type": "CUBE",
+              "pattern": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/2688-images/724fbmd5z5_%s_%v_%h.JPG?v=1771002616011",
+              "width": 1344,
+              "height": 1344
+            },
+            {
+              "type": "CUBE",
+              "pattern": "https://img.docusketch.com/companies/1014289/projects/698f5a5e2a97197bce56f5ec/1606-images/724fbmd5z5_%s_%v_%h.JPG?v=1771002616011",
+              "width": 803,
+              "height": 803
+            }
+          ]
+        },
+        "cameraHeight": 5.25,
+        "attachments": {
+          "attachmen1_Id": {
+            "id": "attachment1_Id",
+            "x": 123,
+            "y": 456,
+            "content": [
+              {
+                "id": "dp748x9x07",
+                "description": "Video",
+                "type": "CAUSE_OF_LOSS",
+                "url": "https://sandbox-images.docusketch.com/items/fru0q84085/64660e9a8ee2f8714c307849/Tour/attachments/65aa370f71c21c686f65c6e9/dp748x9x07_1716988231779_CAUSE_OF_LOSS.jpg",
+                "videoUrl": "https://sandbox-images.docusketch.com/items/fru0q84085/64660e9a8ee2f8714c307849/Tour/attachments/65aa370f71c21c686f65c6e9/dp748x9x07_1716988231779_CAUSE_OF_LOSS.mp4"
+              }
+            ]
+          },
+          "attachmen2_Id": {
+            "id": "attachment2_Id",
+            "x": 456,
+            "y": 789,
+            "content": [
+              {
+                "id": "cmn15tb57b",
+                "description": "asdasd",
+                "type": "NOTE",
+                "url": "https://sandbox-images.docusketch.com/items/fru0q84085/64660e9a8ee2f8714c307849/Tour/attachments/65aa370f71c21c686f65c6e9/cmn15tb57b_1768323493504_NOTE.jpg"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "timelineTours": []
+}
