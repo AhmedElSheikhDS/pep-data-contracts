@@ -1,0 +1,2012 @@
+{
+    "mainTour": {
+        "id": "698c7ed207448265d072c32e",
+        "panos": [
+            {
+                "id": "698c7ed207448265d072c32f",
+                "name": "Hallway Bathroom 1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/cm7vi9xmat.JPG?v=1770815229938",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/cm7vi9xmat.JPG?v=1770815229938",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/cm7vi9xmat.JPG?v=1770815229938",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/cm7vi9xmat_%s_%v_%h.JPG?v=1770815229938",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/cm7vi9xmat_%s_%v_%h.JPG?v=1770815229938",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/cm7vi9xmat_%s_%v_%h.JPG?v=1770815229938",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/cm7vi9xmat_%s_%v_%h.JPG?v=1770815229938",
+                            "width": 1344,
+                            "height": 1344
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "attachments": {
+                    "spot-scene698c7ed207448265d072c32f_idx_0": {
+                        "content": [
+                            {
+                                "panorama": null,
+                                "previewUrl": null,
+                                "id": "m4dvd4jj73",
+                                "name": null,
+                                "description": "Bathroom:\n100% tile\nDetach toilet\n100% quarter round\n100% baseboards\n50% Wainscoting\n100% treat\n100% mortar board\nSet three and one\n",
+                                "type": "NOTE",
+                                "url": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/attachments/698c825007448265d072c333/m4dvd4jj73_1770816197809_NOTE.jpg",
+                                "videoUrl": null,
+                                "comments": null,
+                                "externalID": null
+                            }
+                        ],
+                        "isPrivate": false
+                    },
+                    "spot-scene698c7ed207448265d072c32f_idx_1": {
+                        "content": [
+                            {
+                                "panorama": null,
+                                "previewUrl": null,
+                                "id": "4my6821y81",
+                                "name": null,
+                                "description": "Please add the Crawlspace to the sketch and make it match the dimensions of the inside.\n\nCrawlspace:\nBuild a 10’x10’ containment\n100% Wipe joist\n100% treat\nSet five and one",
+                                "type": "NOTE",
+                                "url": null,
+                                "videoUrl": null,
+                                "comments": null,
+                                "externalID": null
+                            }
+                        ],
+                        "isPrivate": false
+                    }
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "698c7ed4849b0225ce075af4",
+                "name": "Kitchen  3 1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/d2mdql8b08.JPG?v=1770815230180",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/d2mdql8b08.JPG?v=1770815230180",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/d2mdql8b08.JPG?v=1770815230180",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/d2mdql8b08_%s_%v_%h.JPG?v=1770815230180",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/d2mdql8b08_%s_%v_%h.JPG?v=1770815230180",
+                            "width": 1344,
+                            "height": 1344
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/d2mdql8b08_%s_%v_%h.JPG?v=1770815230180",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/d2mdql8b08_%s_%v_%h.JPG?v=1770815230180",
+                            "width": 256,
+                            "height": 256
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "698c7ed7849b0225ce075af5",
+                "name": "Hallway 1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/7flg0467jt.JPG?v=1770815240884",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/7flg0467jt.JPG?v=1770815240884",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/7flg0467jt.JPG?v=1770815240884",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/7flg0467jt_%s_%v_%h.JPG?v=1770815240884",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/7flg0467jt_%s_%v_%h.JPG?v=1770815240884",
+                            "width": 1344,
+                            "height": 1344
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/7flg0467jt_%s_%v_%h.JPG?v=1770815240884",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/7flg0467jt_%s_%v_%h.JPG?v=1770815240884",
+                            "width": 256,
+                            "height": 256
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "698c7ede07448265d072c332",
+                "name": "Kitchen  2 1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/34l5v2sw08.JPG?v=1770815243954",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/34l5v2sw08.JPG?v=1770815243954",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/34l5v2sw08.JPG?v=1770815243954",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/34l5v2sw08_%s_%v_%h.JPG?v=1770815243954",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/34l5v2sw08_%s_%v_%h.JPG?v=1770815243954",
+                            "width": 1344,
+                            "height": 1344
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/34l5v2sw08_%s_%v_%h.JPG?v=1770815243954",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/34l5v2sw08_%s_%v_%h.JPG?v=1770815243954",
+                            "width": 256,
+                            "height": 256
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "698c7ee5849b0225ce075af7",
+                "name": "Kitchen  1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1qu27djn35.JPG?v=1770815257374",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/1qu27djn35.JPG?v=1770815257374",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/1qu27djn35.JPG?v=1770815257374",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1qu27djn35_%s_%v_%h.JPG?v=1770815257374",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/1qu27djn35_%s_%v_%h.JPG?v=1770815257374",
+                            "width": 256,
+                            "height": 256
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/1qu27djn35_%s_%v_%h.JPG?v=1770815257374",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/1qu27djn35_%s_%v_%h.JPG?v=1770815257374",
+                            "width": 1344,
+                            "height": 1344
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "698c7eec849b0225ce075af8",
+                "name": "Hallway Bathroom 2 1st floor",
+                "originalImage": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/kr6gvsi727.JPG?v=1770815255458",
+                "originalImageRaw": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/original-images/kr6gvsi727.JPG?v=1770815255458",
+                "thumbnail": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/thumb-images/kr6gvsi727.JPG?v=1770815255458",
+                "plan": 1,
+                "tiles": {
+                    "tileSize": 1000,
+                    "levels": [
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/kr6gvsi727_%s_%v_%h.JPG?v=1770815255458",
+                            "width": 1488,
+                            "height": 1488
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2688-images/kr6gvsi727_%s_%v_%h.JPG?v=1770815255458",
+                            "width": 1344,
+                            "height": 1344
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/1606-images/kr6gvsi727_%s_%v_%h.JPG?v=1770815255458",
+                            "width": 803,
+                            "height": 803
+                        },
+                        {
+                            "type": "CUBE",
+                            "pattern": "https://sandbox-images.docusketch.com/companies/1028900/projects/698c7ed207448265d072c32e/2048-images/kr6gvsi727_%s_%v_%h.JPG?v=1770815255458",
+                            "width": 256,
+                            "height": 256
+                        }
+                    ]
+                },
+                "cameraHeight": 5.5,
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            }
+        ],
+        "typeOfLoss": {
+            "type": "WATER"
+        }
+    },
+    "timelineTours": [],
+    "instantSketch": {
+        "walls": [
+            {
+                "id": "00000BB8-0000-0000-0000-000000000000",
+                "thickness": 10.0,
+                "length": 480.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000001",
+                "thickness": 10.0,
+                "length": 280.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000002",
+                "thickness": 10.0,
+                "length": 380.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000003",
+                "thickness": 10.0,
+                "length": 280.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000004",
+                "thickness": 10.0,
+                "length": 280.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000005",
+                "thickness": 10.0,
+                "length": 280.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000006",
+                "thickness": 10.0,
+                "length": 480.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000007",
+                "thickness": 10.0,
+                "length": 380.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000008",
+                "thickness": 10.0,
+                "length": 380.0,
+                "bearing": 0,
+                "orphan": false
+            },
+            {
+                "id": "00000BB8-0000-0000-0000-000000000009",
+                "thickness": 10.0,
+                "length": 280.0,
+                "bearing": 0,
+                "orphan": false
+            }
+        ],
+        "arcs": [],
+        "corners": [
+            {
+                "id": "80a9ad88-3731-45c9-bec9-194daadc6afe",
+                "x": -500.0,
+                "y": -400.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000000",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000008",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000001",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "1e48dbd1-07ba-44b5-984d-3a4bc5ee1c00",
+                "x": 0.0,
+                "y": -400.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000007",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000000",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "6495d87b-f12e-4db1-8bf1-a887c1a6ac7c",
+                "x": -800.0,
+                "y": -400.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000001",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000002",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": []
+            },
+            {
+                "id": "8c8bb276-8f06-452d-91a5-c7797fbbfbcd",
+                "x": -800.0,
+                "y": 0.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000003",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000009",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000002",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "73d86ca5-c71c-4471-a7eb-c171911a436a",
+                "x": -800.0,
+                "y": 300.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000004",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000003",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "c4b564bf-f500-413e-99d1-eb46009b1e00",
+                "x": -500.0,
+                "y": 300.0,
+                "wallStarts": [],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000004",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000005",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "1c4a09e9-6950-4f5e-b58d-487a9ae83a43",
+                "x": -500.0,
+                "y": 0.0,
+                "wallStarts": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000005",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000006",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000008",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000009",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            },
+            {
+                "id": "d97ea446-9d21-4efc-b662-fb198e44f52a",
+                "x": 0.0,
+                "y": 0.0,
+                "wallStarts": [],
+                "wallEnds": [
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000006",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    },
+                    {
+                        "id": "00000BB8-0000-0000-0000-000000000007",
+                        "thickness": 10.0,
+                        "bearing": 0,
+                        "orphan": false
+                    }
+                ]
+            }
+        ],
+        "rooms": [
+            {
+                "id": "c277075e-de15-4cb9-b1af-b87d7de62673",
+                "roomName": "First Drying Chamber 1",
+                "corners": [
+                    {
+                        "id": "80a9ad88-3731-45c9-bec9-194daadc6afe",
+                        "x": -500.0,
+                        "y": -400.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000000",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000008",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000001",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1e48dbd1-07ba-44b5-984d-3a4bc5ee1c00",
+                        "x": 0.0,
+                        "y": -400.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000007",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000000",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d97ea446-9d21-4efc-b662-fb198e44f52a",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "wallStarts": [],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000006",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000007",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c4a09e9-6950-4f5e-b58d-487a9ae83a43",
+                        "x": -500.0,
+                        "y": 0.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000005",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000006",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000008",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000009",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    }
+                ],
+                "area": 200000.0,
+                "placement": "d286771a-1980-4289-87e6-842a5c0bd04b"
+            },
+            {
+                "id": "e4a9f4cd-98d1-4afe-933a-8d53b906a0cb",
+                "roomName": "First Drying Chamber 2",
+                "corners": [
+                    {
+                        "id": "80a9ad88-3731-45c9-bec9-194daadc6afe",
+                        "x": -500.0,
+                        "y": -400.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000000",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000008",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000001",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c4a09e9-6950-4f5e-b58d-487a9ae83a43",
+                        "x": -500.0,
+                        "y": 0.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000005",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000006",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000008",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000009",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8c8bb276-8f06-452d-91a5-c7797fbbfbcd",
+                        "x": -800.0,
+                        "y": 0.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000003",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000009",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000002",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6495d87b-f12e-4db1-8bf1-a887c1a6ac7c",
+                        "x": -800.0,
+                        "y": -400.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000001",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000002",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": []
+                    }
+                ],
+                "area": 120000.0,
+                "placement": "2b0919fc-7725-4c35-a40b-0a5b3eb3e2ea"
+            },
+            {
+                "id": "dd748593-23d0-4e85-8386-b9f4e069df71",
+                "roomName": "First Drying Chamber 3",
+                "corners": [
+                    {
+                        "id": "8c8bb276-8f06-452d-91a5-c7797fbbfbcd",
+                        "x": -800.0,
+                        "y": 0.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000003",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000009",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000002",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1c4a09e9-6950-4f5e-b58d-487a9ae83a43",
+                        "x": -500.0,
+                        "y": 0.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000005",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000006",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000008",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000009",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "c4b564bf-f500-413e-99d1-eb46009b1e00",
+                        "x": -500.0,
+                        "y": 300.0,
+                        "wallStarts": [],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000004",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            },
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000005",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73d86ca5-c71c-4471-a7eb-c171911a436a",
+                        "x": -800.0,
+                        "y": 300.0,
+                        "wallStarts": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000004",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ],
+                        "wallEnds": [
+                            {
+                                "id": "00000BB8-0000-0000-0000-000000000003",
+                                "thickness": 10.0,
+                                "bearing": 0,
+                                "orphan": false
+                            }
+                        ]
+                    }
+                ],
+                "area": 90000.0,
+                "placement": "240765d8-5b23-4f87-a1b7-aca47194d3fe"
+            }
+        ],
+        "doors": [
+            {
+                "id": "00000DAC-0000-0000-0000-000000000000",
+                "x1": -500.0000033974055,
+                "y1": -245.0,
+                "x2": -499.9999966025945,
+                "y2": -155.0,
+                "wallWidth": 15.0,
+                "startDistance": 0.0,
+                "type": 1,
+                "direction": 1,
+                "pathFrom": 1,
+                "openRate": 1.0,
+                "height": 200.0
+            },
+            {
+                "id": "00000DAC-0000-0000-0000-000000000001",
+                "x1": -695.0,
+                "y1": -0.0,
+                "x2": -605.0,
+                "y2": 0.0,
+                "wallWidth": 15.0,
+                "startDistance": 0.0,
+                "type": 1,
+                "direction": 1,
+                "pathFrom": 1,
+                "openRate": 1.0,
+                "height": 200.0
+            }
+        ],
+        "windows": [
+            {
+                "id": "00000E10-0000-0000-0000-000000000000",
+                "x1": -310.0,
+                "y1": -400.0,
+                "x2": -190.0,
+                "y2": -400.0,
+                "wall": {
+                    "id": "00000BB8-0000-0000-0000-000000000000",
+                    "thickness": 10.0,
+                    "length": 480.0,
+                    "bearing": 0,
+                    "orphan": false
+                },
+                "wallWidth": 500.0,
+                "startDistance": 190.0,
+                "height": 120.0,
+                "heightFromFloor": 90.0,
+                "length": 120.0,
+                "isCreatedIn2D": true
+            },
+            {
+                "id": "00000E10-0000-0000-0000-000000000001",
+                "x1": -710.0,
+                "y1": -400.0,
+                "x2": -590.0,
+                "y2": -400.0,
+                "wall": {
+                    "id": "00000BB8-0000-0000-0000-000000000001",
+                    "thickness": 10.0,
+                    "length": 280.0,
+                    "bearing": 0,
+                    "orphan": false
+                },
+                "wallWidth": 300.0,
+                "startDistance": 90.0,
+                "height": 120.0,
+                "heightFromFloor": 90.0,
+                "length": 120.0,
+                "isCreatedIn2D": true
+            },
+            {
+                "id": "00000E10-0000-0000-0000-000000000002",
+                "x1": -710.0,
+                "y1": 300.0,
+                "x2": -590.0,
+                "y2": 300.0,
+                "wall": {
+                    "id": "00000BB8-0000-0000-0000-000000000004",
+                    "thickness": 10.0,
+                    "length": 280.0,
+                    "bearing": 0,
+                    "orphan": false
+                },
+                "wallWidth": 300.0,
+                "startDistance": 90.0,
+                "height": 120.0,
+                "heightFromFloor": 90.0,
+                "length": 120.0,
+                "isCreatedIn2D": true
+            }
+        ],
+        "holes": [],
+        "cameras": [],
+        "embeds": [],
+        "placements": {
+            "First Drying Chamber 2": {
+                "id": "2b0919fc-7725-4c35-a40b-0a5b3eb3e2ea",
+                "name": "First Drying Chamber 2",
+                "roomType": "room",
+                "isBalcony": false
+            },
+            "First Drying Chamber 1": {
+                "id": "d286771a-1980-4289-87e6-842a5c0bd04b",
+                "name": "First Drying Chamber 1",
+                "roomType": "room",
+                "isBalcony": false
+            },
+            "First Drying Chamber 3": {
+                "id": "240765d8-5b23-4f87-a1b7-aca47194d3fe",
+                "name": "First Drying Chamber 3",
+                "roomType": "room",
+                "isBalcony": false
+            }
+        },
+        "lines": [
+            {
+                "id": "26042531-cc6c-41e5-a05e-57b938de8be3",
+                "start": {
+                    "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                    "x": -209.40661431234764,
+                    "y": -82.2153727213542
+                },
+                "end": {
+                    "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                    "x": -211.86360396816576,
+                    "y": -107.16160733746847
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "762705e7-84ab-41f6-b900-6227a7c8986b",
+                "start": {
+                    "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                    "x": -211.86360396816576,
+                    "y": -107.16160733746847
+                },
+                "end": {
+                    "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                    "x": -219.14015220104287,
+                    "y": -131.1491721472949
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "29154fb1-7332-4dfc-a525-8819620db41f",
+                "start": {
+                    "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                    "x": -219.14015220104287,
+                    "y": -131.1491721472949
+                },
+                "end": {
+                    "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                    "x": -230.95662534312459,
+                    "y": -153.25623848757343
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "94e5f29e-e6c7-43f7-a2f8-fe696faf644c",
+                "start": {
+                    "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                    "x": -230.95662534312459,
+                    "y": -153.25623848757343
+                },
+                "end": {
+                    "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                    "x": -246.85892295831536,
+                    "y": -172.6332441966326
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "a73bad4f-5ae7-48ab-a976-0482c0cae9b7",
+                "start": {
+                    "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                    "x": -246.85892295831536,
+                    "y": -172.6332441966326
+                },
+                "end": {
+                    "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                    "x": -266.23592866737454,
+                    "y": -188.5355418118234
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "057750ef-25a3-469e-99c4-39a4525dd8c6",
+                "start": {
+                    "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                    "x": -266.23592866737454,
+                    "y": -188.5355418118234
+                },
+                "end": {
+                    "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                    "x": -288.342995007653,
+                    "y": -200.35201495390513
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "f2d05368-9af4-421e-b559-6788d921847a",
+                "start": {
+                    "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                    "x": -288.342995007653,
+                    "y": -200.35201495390513
+                },
+                "end": {
+                    "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                    "x": -312.3305598174795,
+                    "y": -207.62856318678215
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "669e2a35-8d7f-4680-8de1-2967d0fdf4a0",
+                "start": {
+                    "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                    "x": -312.3305598174795,
+                    "y": -207.62856318678215
+                },
+                "end": {
+                    "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                    "x": -337.27679443359375,
+                    "y": -210.08555284260035
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "08725c9a-5d00-449c-b14b-501679c40302",
+                "start": {
+                    "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                    "x": -337.27679443359375,
+                    "y": -210.08555284260035
+                },
+                "end": {
+                    "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                    "x": -362.223029049708,
+                    "y": -207.62856318678215
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "4da2a5b1-b86d-4356-a505-455226114658",
+                "start": {
+                    "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                    "x": -362.223029049708,
+                    "y": -207.62856318678215
+                },
+                "end": {
+                    "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                    "x": -386.2105938595345,
+                    "y": -200.35201495390513
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "524e18d1-bdcc-415a-b28e-7d007b0f6f36",
+                "start": {
+                    "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                    "x": -386.2105938595345,
+                    "y": -200.35201495390513
+                },
+                "end": {
+                    "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                    "x": -408.31766019981296,
+                    "y": -188.5355418118234
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "22573dc9-0f51-484b-8b97-ddc9ebcd672f",
+                "start": {
+                    "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                    "x": -408.31766019981296,
+                    "y": -188.5355418118234
+                },
+                "end": {
+                    "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                    "x": -427.6946659088722,
+                    "y": -172.6332441966326
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "73cc77b7-225a-42eb-98a3-eb3abb44a0c6",
+                "start": {
+                    "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                    "x": -427.6946659088722,
+                    "y": -172.6332441966326
+                },
+                "end": {
+                    "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                    "x": -443.5969635240629,
+                    "y": -153.25623848757343
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "6bf3db79-503e-4f2c-9d25-10f415db0c7d",
+                "start": {
+                    "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                    "x": -443.5969635240629,
+                    "y": -153.25623848757343
+                },
+                "end": {
+                    "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                    "x": -455.41343666614466,
+                    "y": -131.1491721472949
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "a644a8d9-e03a-4efe-ae36-729c8edbe8a0",
+                "start": {
+                    "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                    "x": -455.41343666614466,
+                    "y": -131.1491721472949
+                },
+                "end": {
+                    "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                    "x": -462.68998489902174,
+                    "y": -107.16160733746847
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "4c56b399-2f70-4446-8744-de1efe1201ac",
+                "start": {
+                    "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                    "x": -462.68998489902174,
+                    "y": -107.16160733746847
+                },
+                "end": {
+                    "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                    "x": -465.14697455483986,
+                    "y": -82.2153727213542
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "4c3de469-7cf4-4d02-b63c-a072eee13a5b",
+                "start": {
+                    "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                    "x": -465.14697455483986,
+                    "y": -82.2153727213542
+                },
+                "end": {
+                    "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                    "x": -462.68998489902174,
+                    "y": -57.269138105239925
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "f2cdfe48-511a-4431-85c6-1ad76e3fa5a1",
+                "start": {
+                    "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                    "x": -462.68998489902174,
+                    "y": -57.269138105239925
+                },
+                "end": {
+                    "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                    "x": -455.41343666614466,
+                    "y": -33.28157329541348
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "27c7912d-b2fd-4a18-898a-65693ae5b970",
+                "start": {
+                    "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                    "x": -455.41343666614466,
+                    "y": -33.28157329541348
+                },
+                "end": {
+                    "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                    "x": -443.5969635240629,
+                    "y": -11.174506955135044
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "f83bb3b9-4223-46b4-b541-eea49ded79b2",
+                "start": {
+                    "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                    "x": -443.5969635240629,
+                    "y": -11.174506955135044
+                },
+                "end": {
+                    "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                    "x": -230.95662534312459,
+                    "y": -11.174506955134955
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "7fcd0fba-a027-47f6-9994-fbbf0a69cd2a",
+                "start": {
+                    "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                    "x": -230.95662534312459,
+                    "y": -11.174506955134955
+                },
+                "end": {
+                    "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                    "x": -219.14015220104287,
+                    "y": -33.281573295413395
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "4914ba7b-8847-48bb-979e-a20f5fcf267a",
+                "start": {
+                    "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                    "x": -219.14015220104287,
+                    "y": -33.281573295413395
+                },
+                "end": {
+                    "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                    "x": -211.8636039681658,
+                    "y": -57.269138105239925
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "ed2161f4-6324-4d4f-a874-8b110ad12481",
+                "start": {
+                    "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                    "x": -211.8636039681658,
+                    "y": -57.269138105239925
+                },
+                "end": {
+                    "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                    "x": -209.40661431234764,
+                    "y": -82.2153727213542
+                },
+                "thickness": 5.0
+            },
+            {
+                "id": "3c351c1d-6ff2-4e8b-95f4-67479674aa96",
+                "start": {
+                    "id": "71479998-eced-42b6-8566-dae42ea20e95",
+                    "x": -500.0000033974055,
+                    "y": -244.9999999999999
+                },
+                "end": {
+                    "id": "03d28651-49d1-434a-b06a-93dcd267d117",
+                    "x": -499.9999966025945,
+                    "y": -155.0000000000001
+                },
+                "thickness": 5.0
+            }
+        ],
+        "dots": [
+            {
+                "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                "x": -209.40661431234764,
+                "y": -82.2153727213542
+            },
+            {
+                "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                "x": -211.86360396816576,
+                "y": -107.16160733746847
+            },
+            {
+                "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                "x": -219.14015220104287,
+                "y": -131.1491721472949
+            },
+            {
+                "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                "x": -230.95662534312459,
+                "y": -153.25623848757343
+            },
+            {
+                "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                "x": -246.85892295831536,
+                "y": -172.6332441966326
+            },
+            {
+                "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                "x": -266.23592866737454,
+                "y": -188.5355418118234
+            },
+            {
+                "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                "x": -288.342995007653,
+                "y": -200.35201495390513
+            },
+            {
+                "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                "x": -312.3305598174795,
+                "y": -207.62856318678215
+            },
+            {
+                "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                "x": -337.27679443359375,
+                "y": -210.08555284260035
+            },
+            {
+                "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                "x": -362.223029049708,
+                "y": -207.62856318678215
+            },
+            {
+                "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                "x": -386.2105938595345,
+                "y": -200.35201495390513
+            },
+            {
+                "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                "x": -408.31766019981296,
+                "y": -188.5355418118234
+            },
+            {
+                "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                "x": -427.6946659088722,
+                "y": -172.6332441966326
+            },
+            {
+                "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                "x": -443.5969635240629,
+                "y": -153.25623848757343
+            },
+            {
+                "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                "x": -455.41343666614466,
+                "y": -131.1491721472949
+            },
+            {
+                "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                "x": -462.68998489902174,
+                "y": -107.16160733746847
+            },
+            {
+                "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                "x": -465.14697455483986,
+                "y": -82.2153727213542
+            },
+            {
+                "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                "x": -462.68998489902174,
+                "y": -57.269138105239925
+            },
+            {
+                "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                "x": -455.41343666614466,
+                "y": -33.28157329541348
+            },
+            {
+                "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                "x": -443.5969635240629,
+                "y": -11.174506955135044
+            },
+            {
+                "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                "x": -230.95662534312459,
+                "y": -11.174506955134955
+            },
+            {
+                "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                "x": -219.14015220104287,
+                "y": -33.281573295413395
+            },
+            {
+                "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                "x": -211.8636039681658,
+                "y": -57.269138105239925
+            },
+            {
+                "id": "71479998-eced-42b6-8566-dae42ea20e95",
+                "x": -500.0000033974055,
+                "y": -244.9999999999999
+            },
+            {
+                "id": "03d28651-49d1-434a-b06a-93dcd267d117",
+                "x": -499.9999966025945,
+                "y": -155.0000000000001
+            }
+        ],
+        "pois": [],
+        "equipment": [
+            {
+                "id": "D7BA3A33-1B2E-408E-9784-CC81E522530A",
+                "type": "Air_Mover",
+                "description": "Air Mover",
+                "coordinates": {
+                    "x": -465.8512592315674,
+                    "y": -130.97660541534424
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "4F7E746F-7826-49DD-993C-CF915B229FEB",
+                "type": "Air_Mover",
+                "description": "Air Mover",
+                "coordinates": {
+                    "x": -297.5400686264038,
+                    "y": -265.9348487854004
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "194669D2-47E4-477F-868C-56C737390035",
+                "type": "Air_Mover",
+                "description": "Air Mover",
+                "coordinates": {
+                    "x": -193.65251064300537,
+                    "y": -136.87148094177246
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "A038AF4B-ED9C-41E5-A454-B3B6FAC4FF3A",
+                "type": "Air_Scrubber",
+                "description": "Air Scrubber",
+                "coordinates": {
+                    "x": -405.5612564086914,
+                    "y": -228.19905281066895
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            },
+            {
+                "id": "FCC9EA25-4D6F-47F3-AEC9-9E41E230ABA9",
+                "type": "Dehumidifier",
+                "description": "Dehumidifier",
+                "coordinates": {
+                    "x": -237.51842975616455,
+                    "y": -261.6966247558594
+                },
+                "roomId": "c277075e-de15-4cb9-b1af-b87d7de62673"
+            }
+        ],
+        "wallMoisture": [],
+        "settings": {
+            "floorHeight": 0.0,
+            "wallHeight": 270.0,
+            "measurementUnit": "cm"
+        },
+        "kitchens": [],
+        "projectData": {
+            "waterCategory": "CAT 2",
+            "waterClass": "Class 3"
+        },
+        "moistureAreas": [
+            {
+                "id": "014fb04c-f202-492e-8780-1ca63381931f,0c9b5751-d357-4b8c-9d1b-76c42966374f,2f742d23-e3ef-4a20-b392-e174f496a5af,32049f3f-607d-4eac-8da7-e63c390b5401,33037f23-211d-4efa-a5f0-fa7667ef0b03,3a9e77ca-ba2b-44a8-8807-6f02da07155d,5bde7e15-f98c-4908-94c9-ba1a96df7d82,5d02af85-6f74-4557-bd29-f950752d5859,5d86f758-e6c6-4b91-8afc-2e89b7ff1753,68e081d9-0bb8-4c50-bd27-4550ba860340,705f6d2b-82dd-43c4-bf6d-2387d083bbef,7cdb6bf7-ef25-4e95-859c-81e14a996efd,8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80,8783f0af-9ad6-45f8-8eaa-13326c669b41,91647222-70b8-41e0-a766-6afc1296a27c,95ed1002-18c7-495a-85bb-48ad416df53f,a90ce42e-827d-46d6-9789-412e89cc6833,b439b4a5-fd0f-4826-bf73-935b9b570575,b809eb87-3034-4b84-92d1-f0da1570dabe,b8d0115d-4466-4527-aba4-b44b36a6b779,c5012222-7ae5-40d2-b6d7-7949c1411af3,d549cbdb-91fc-4368-923f-ce8423782dd3,dc0451e5-8bfc-43fb-b660-276260247a6a",
+                "dots": [
+                    {
+                        "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                        "x": -209.40661431234764,
+                        "y": -82.2153727213542
+                    },
+                    {
+                        "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                        "x": -211.86360396816576,
+                        "y": -107.16160733746847
+                    },
+                    {
+                        "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                        "x": -219.14015220104287,
+                        "y": -131.1491721472949
+                    },
+                    {
+                        "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                        "x": -230.95662534312459,
+                        "y": -153.25623848757343
+                    },
+                    {
+                        "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                        "x": -246.85892295831536,
+                        "y": -172.6332441966326
+                    },
+                    {
+                        "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                        "x": -266.23592866737454,
+                        "y": -188.5355418118234
+                    },
+                    {
+                        "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                        "x": -288.342995007653,
+                        "y": -200.35201495390513
+                    },
+                    {
+                        "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                        "x": -312.3305598174795,
+                        "y": -207.62856318678215
+                    },
+                    {
+                        "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                        "x": -337.27679443359375,
+                        "y": -210.08555284260035
+                    },
+                    {
+                        "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                        "x": -362.223029049708,
+                        "y": -207.62856318678215
+                    },
+                    {
+                        "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                        "x": -386.2105938595345,
+                        "y": -200.35201495390513
+                    },
+                    {
+                        "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                        "x": -408.31766019981296,
+                        "y": -188.5355418118234
+                    },
+                    {
+                        "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                        "x": -427.6946659088722,
+                        "y": -172.6332441966326
+                    },
+                    {
+                        "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                        "x": -443.5969635240629,
+                        "y": -153.25623848757343
+                    },
+                    {
+                        "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                        "x": -455.41343666614466,
+                        "y": -131.1491721472949
+                    },
+                    {
+                        "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                        "x": -462.68998489902174,
+                        "y": -107.16160733746847
+                    },
+                    {
+                        "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                        "x": -465.14697455483986,
+                        "y": -82.2153727213542
+                    },
+                    {
+                        "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                        "x": -462.68998489902174,
+                        "y": -57.269138105239925
+                    },
+                    {
+                        "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                        "x": -455.41343666614466,
+                        "y": -33.28157329541348
+                    },
+                    {
+                        "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                        "x": -443.5969635240629,
+                        "y": -11.174506955135044
+                    },
+                    {
+                        "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                        "x": -230.95662534312459,
+                        "y": -11.174506955134955
+                    },
+                    {
+                        "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                        "x": -219.14015220104287,
+                        "y": -33.281573295413395
+                    },
+                    {
+                        "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                        "x": -211.8636039681658,
+                        "y": -57.269138105239925
+                    }
+                ],
+                "lines": [
+                    {
+                        "id": "26042531-cc6c-41e5-a05e-57b938de8be3",
+                        "start": {
+                            "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                            "x": -209.40661431234764,
+                            "y": -82.2153727213542
+                        },
+                        "end": {
+                            "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                            "x": -211.86360396816576,
+                            "y": -107.16160733746847
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "762705e7-84ab-41f6-b900-6227a7c8986b",
+                        "start": {
+                            "id": "95ed1002-18c7-495a-85bb-48ad416df53f",
+                            "x": -211.86360396816576,
+                            "y": -107.16160733746847
+                        },
+                        "end": {
+                            "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                            "x": -219.14015220104287,
+                            "y": -131.1491721472949
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "29154fb1-7332-4dfc-a525-8819620db41f",
+                        "start": {
+                            "id": "5d02af85-6f74-4557-bd29-f950752d5859",
+                            "x": -219.14015220104287,
+                            "y": -131.1491721472949
+                        },
+                        "end": {
+                            "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                            "x": -230.95662534312459,
+                            "y": -153.25623848757343
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "94e5f29e-e6c7-43f7-a2f8-fe696faf644c",
+                        "start": {
+                            "id": "dc0451e5-8bfc-43fb-b660-276260247a6a",
+                            "x": -230.95662534312459,
+                            "y": -153.25623848757343
+                        },
+                        "end": {
+                            "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                            "x": -246.85892295831536,
+                            "y": -172.6332441966326
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "a73bad4f-5ae7-48ab-a976-0482c0cae9b7",
+                        "start": {
+                            "id": "5d86f758-e6c6-4b91-8afc-2e89b7ff1753",
+                            "x": -246.85892295831536,
+                            "y": -172.6332441966326
+                        },
+                        "end": {
+                            "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                            "x": -266.23592866737454,
+                            "y": -188.5355418118234
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "057750ef-25a3-469e-99c4-39a4525dd8c6",
+                        "start": {
+                            "id": "33037f23-211d-4efa-a5f0-fa7667ef0b03",
+                            "x": -266.23592866737454,
+                            "y": -188.5355418118234
+                        },
+                        "end": {
+                            "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                            "x": -288.342995007653,
+                            "y": -200.35201495390513
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "f2d05368-9af4-421e-b559-6788d921847a",
+                        "start": {
+                            "id": "705f6d2b-82dd-43c4-bf6d-2387d083bbef",
+                            "x": -288.342995007653,
+                            "y": -200.35201495390513
+                        },
+                        "end": {
+                            "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                            "x": -312.3305598174795,
+                            "y": -207.62856318678215
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "669e2a35-8d7f-4680-8de1-2967d0fdf4a0",
+                        "start": {
+                            "id": "a90ce42e-827d-46d6-9789-412e89cc6833",
+                            "x": -312.3305598174795,
+                            "y": -207.62856318678215
+                        },
+                        "end": {
+                            "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                            "x": -337.27679443359375,
+                            "y": -210.08555284260035
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "08725c9a-5d00-449c-b14b-501679c40302",
+                        "start": {
+                            "id": "32049f3f-607d-4eac-8da7-e63c390b5401",
+                            "x": -337.27679443359375,
+                            "y": -210.08555284260035
+                        },
+                        "end": {
+                            "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                            "x": -362.223029049708,
+                            "y": -207.62856318678215
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "4da2a5b1-b86d-4356-a505-455226114658",
+                        "start": {
+                            "id": "d549cbdb-91fc-4368-923f-ce8423782dd3",
+                            "x": -362.223029049708,
+                            "y": -207.62856318678215
+                        },
+                        "end": {
+                            "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                            "x": -386.2105938595345,
+                            "y": -200.35201495390513
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "524e18d1-bdcc-415a-b28e-7d007b0f6f36",
+                        "start": {
+                            "id": "8673aa3e-7d9a-49eb-a8a6-0b3c7fc6df80",
+                            "x": -386.2105938595345,
+                            "y": -200.35201495390513
+                        },
+                        "end": {
+                            "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                            "x": -408.31766019981296,
+                            "y": -188.5355418118234
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "22573dc9-0f51-484b-8b97-ddc9ebcd672f",
+                        "start": {
+                            "id": "7cdb6bf7-ef25-4e95-859c-81e14a996efd",
+                            "x": -408.31766019981296,
+                            "y": -188.5355418118234
+                        },
+                        "end": {
+                            "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                            "x": -427.6946659088722,
+                            "y": -172.6332441966326
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "73cc77b7-225a-42eb-98a3-eb3abb44a0c6",
+                        "start": {
+                            "id": "b8d0115d-4466-4527-aba4-b44b36a6b779",
+                            "x": -427.6946659088722,
+                            "y": -172.6332441966326
+                        },
+                        "end": {
+                            "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                            "x": -443.5969635240629,
+                            "y": -153.25623848757343
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "6bf3db79-503e-4f2c-9d25-10f415db0c7d",
+                        "start": {
+                            "id": "0c9b5751-d357-4b8c-9d1b-76c42966374f",
+                            "x": -443.5969635240629,
+                            "y": -153.25623848757343
+                        },
+                        "end": {
+                            "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                            "x": -455.41343666614466,
+                            "y": -131.1491721472949
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "a644a8d9-e03a-4efe-ae36-729c8edbe8a0",
+                        "start": {
+                            "id": "8783f0af-9ad6-45f8-8eaa-13326c669b41",
+                            "x": -455.41343666614466,
+                            "y": -131.1491721472949
+                        },
+                        "end": {
+                            "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                            "x": -462.68998489902174,
+                            "y": -107.16160733746847
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "4c56b399-2f70-4446-8744-de1efe1201ac",
+                        "start": {
+                            "id": "91647222-70b8-41e0-a766-6afc1296a27c",
+                            "x": -462.68998489902174,
+                            "y": -107.16160733746847
+                        },
+                        "end": {
+                            "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                            "x": -465.14697455483986,
+                            "y": -82.2153727213542
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "4c3de469-7cf4-4d02-b63c-a072eee13a5b",
+                        "start": {
+                            "id": "68e081d9-0bb8-4c50-bd27-4550ba860340",
+                            "x": -465.14697455483986,
+                            "y": -82.2153727213542
+                        },
+                        "end": {
+                            "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                            "x": -462.68998489902174,
+                            "y": -57.269138105239925
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "f2cdfe48-511a-4431-85c6-1ad76e3fa5a1",
+                        "start": {
+                            "id": "b809eb87-3034-4b84-92d1-f0da1570dabe",
+                            "x": -462.68998489902174,
+                            "y": -57.269138105239925
+                        },
+                        "end": {
+                            "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                            "x": -455.41343666614466,
+                            "y": -33.28157329541348
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "27c7912d-b2fd-4a18-898a-65693ae5b970",
+                        "start": {
+                            "id": "b439b4a5-fd0f-4826-bf73-935b9b570575",
+                            "x": -455.41343666614466,
+                            "y": -33.28157329541348
+                        },
+                        "end": {
+                            "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                            "x": -443.5969635240629,
+                            "y": -11.174506955135044
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "f83bb3b9-4223-46b4-b541-eea49ded79b2",
+                        "start": {
+                            "id": "3a9e77ca-ba2b-44a8-8807-6f02da07155d",
+                            "x": -443.5969635240629,
+                            "y": -11.174506955135044
+                        },
+                        "end": {
+                            "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                            "x": -230.95662534312459,
+                            "y": -11.174506955134955
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "7fcd0fba-a027-47f6-9994-fbbf0a69cd2a",
+                        "start": {
+                            "id": "5bde7e15-f98c-4908-94c9-ba1a96df7d82",
+                            "x": -230.95662534312459,
+                            "y": -11.174506955134955
+                        },
+                        "end": {
+                            "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                            "x": -219.14015220104287,
+                            "y": -33.281573295413395
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "4914ba7b-8847-48bb-979e-a20f5fcf267a",
+                        "start": {
+                            "id": "2f742d23-e3ef-4a20-b392-e174f496a5af",
+                            "x": -219.14015220104287,
+                            "y": -33.281573295413395
+                        },
+                        "end": {
+                            "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                            "x": -211.8636039681658,
+                            "y": -57.269138105239925
+                        },
+                        "thickness": 5.0
+                    },
+                    {
+                        "id": "ed2161f4-6324-4d4f-a874-8b110ad12481",
+                        "start": {
+                            "id": "014fb04c-f202-492e-8780-1ca63381931f",
+                            "x": -211.8636039681658,
+                            "y": -57.269138105239925
+                        },
+                        "end": {
+                            "id": "c5012222-7ae5-40d2-b6d7-7949c1411af3",
+                            "x": -209.40661431234764,
+                            "y": -82.2153727213542
+                        },
+                        "thickness": 5.0
+                    }
+                ],
+                "height": 90.0,
+                "type": "moistureArea",
+                "affectedSurfaces": [
+                    "Floor"
+                ]
+            }
+        ],
+        "barriers": [
+            {
+                "id": "865E057F-44AE-4742-A034-50210986CA0B",
+                "dots": [
+                    {
+                        "id": "71479998-eced-42b6-8566-dae42ea20e95",
+                        "x": -500.0000033974055,
+                        "y": -244.9999999999999
+                    },
+                    {
+                        "id": "03d28651-49d1-434a-b06a-93dcd267d117",
+                        "x": -499.9999966025945,
+                        "y": -155.0000000000001
+                    }
+                ],
+                "lines": [
+                    {
+                        "id": "3c351c1d-6ff2-4e8b-95f4-67479674aa96",
+                        "start": {
+                            "id": "71479998-eced-42b6-8566-dae42ea20e95",
+                            "x": -500.0000033974055,
+                            "y": -244.9999999999999
+                        },
+                        "end": {
+                            "id": "03d28651-49d1-434a-b06a-93dcd267d117",
+                            "x": -499.9999966025945,
+                            "y": -155.0000000000001
+                        },
+                        "thickness": 5.0
+                    }
+                ],
+                "height": 90.0,
+                "type": "barrier"
+            }
+        ]
+    }
+}

@@ -71,14 +71,18 @@ Data Contracts/
 ├── 03-aligned-fe-contract/                ← Second FE.json (Feb 6–12)
 │   ├── README.md
 │   ├── FE.json                            ← + roomId, projectData, moistureArea type, wall length
-└── 04-combined-json-prototype/            ← Combined JSON prototype (Feb 16)
+├── 04-combined-json-prototype/            ← Combined JSON prototype (Feb 16)
+│   ├── README.md
+│   ├── Untitled.json                      ← mainTour + panos + maps (combined structure WIP)
+└── 05-combined-json-wip/                  ← Combined JSON from Anton (Feb 24)
     ├── README.md
-    ├── Untitled.json                      ← mainTour + panos + maps (combined structure WIP)
+    ├── input-contract-spec.md             ← Formal input contract spec (Draft v0.1)
+    ├── 24-feb-Untitled.json               ← mainTour + instantSketch flat payload (WIP)
 ```
 
 ---
 
-## Current Status (as of Feb 19, 2026)
+## Current Status (as of Feb 25, 2026)
 
 ### Team BE → Team Core (Input Contract)
 
@@ -92,8 +96,14 @@ Data Contracts/
 | Containment barriers (`type: "barrier"`) | Delivered | Feb 4 |
 | Wall `length` | Delivered | Feb 9 |
 | Enum normalization (capitalized, arrays) | Delivered | Feb 12 |
-| Combined JSON (FE.json + DocuSketch project data) | In design | — |
-| Treatment info/material | Blocked (mobile app) | — |
+| Combined JSON (FE.json + DocuSketch project data) | Delivered (WIP) | Feb 24 |
+| `mainTour` with panos, attachments, `typeOfLoss` | Delivered | Feb 24 |
+| `instantSketch` with rooms, walls, equipment, moistureAreas, barriers | Delivered | Feb 24 |
+| Direct `roomId` linkage (pano → room, replacing `maps`) | Delivered | Feb 24 |
+| Treatment info/material | Blocked (mobile app) — Ahmed asked Oleg Shultsev | — |
+| Wall moisture readings | Empty in current file | — |
+| Saturation level | Not present | — |
+| Dehumidifier type (LGR vs conventional) | Not present | — |
 
 ### Team Core → Team BE (Output Contract)
 
@@ -115,13 +125,17 @@ In discussion, with primary alignment on ownership of fields.
 
 | Item | Owner | Blocked By |
 | --- | --- | --- |
-| Combined JSON structure | Anton (Team BE) | Design decision |
-| Treatment info/material | Oleg Shultsev (Mobile) | Mobile app feature |
-| AWS SQS access | Ahmed → Martin/Akash | Account provisioning |
-| Output contract definition | Ahmed + Anton | Input contract finalization |
+| Combined JSON structure | Anton (Team BE) | **Resolved** — delivered Feb 24 (WIP) |
+| Treatment info/material | Oleg Shultsev (Mobile) | Mobile app feature — Ahmed asked Oleg Shultsev |
+| Mandatory fields in Instant Sketch app | Oleg Shultsev (Mobile) | Malte requests all except moisture readings be mandatory |
+| Wall moisture readings | Anton (Team BE) | Empty in current file — depends on mobile app |
+| Saturation level | — | **Resolved** — derivable from `wallMoisture` readings once populated |
+| Dehumidifier type (LGR vs conventional) | Ahmed → Anton (Team BE) | Not in current schema |
+| AWS SQS access | Ahmed | **Resolved** |
+| SQS queue names, DLQs, retries, timeouts | Ahmed + Anton | Deferred until format stable |
+| Output contract definition | Ahmed + Mladen | Input contract finalization |
 | Validation & failure behavior | Ahmed + Anton | Schema stabilization |
 | Versioning strategy | Both teams | — |
-| Lines/dots data duplication | Anton | Investigation |
 
 ---
 
